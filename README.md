@@ -9,3 +9,10 @@ https://molssi-education.github.io/python_scripting_cms/
 Please follow the instructions in "Setup" section to install Python on your laptop. 
 
 Alternatively, you can run Jupyter Notebook on Scholar cluster: https://www.rcac.purdue.edu/compute/scholar/ (follow Jupyter Hub link there). 
+
+## Reading resources
+A quick wrap-up of introductory quantum mechanics is here: 
+
+http://vergil.chemistry.gatech.edu/notes/quantrev/quantrev.pdf
+
+It is expected that you are comfortable with main concepts covered in this summary.
