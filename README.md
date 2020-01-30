@@ -16,3 +16,7 @@ A quick wrap-up of introductory quantum mechanics is here:
 http://vergil.chemistry.gatech.edu/notes/quantrev/quantrev.pdf
 
 It is expected that you are comfortable with main concepts covered in this summary.
+
+## Homeworks
+Homework 1. Szabo & Ostlund 2.2, 2.5 (due Tuesday Feb. 4).
+Homework 2. Jupyter notebooks "var_method" assignment and "SCF_method" (Tuesday Feb. 11).
