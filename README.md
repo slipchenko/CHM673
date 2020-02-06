@@ -29,4 +29,8 @@ https://www.basissetexchange.org
 ## Homeworks
 Homework 1. Szabo & Ostlund 2.2, 2.5 (due Tuesday Feb. 4).
 
-Homework 2. Jupyter notebooks "var_method" assignment and "HF_code" (Tuesday Feb. 11). Take it easier on "HF_code" notebook, we will go through details on the next lecture.
+Homework 2. Jupyter notebooks "var_method" assignment (due Feb. 11).
+
+Homework 3. "HF_code" notebook (due Tuesday Feb. 18). 
+
+Project assignment #1 is also due Tuesday Feb. 18!
