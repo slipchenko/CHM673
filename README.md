@@ -17,6 +17,15 @@ http://vergil.chemistry.gatech.edu/notes/quantrev/quantrev.pdf
 
 It is expected that you are comfortable with main concepts covered in this summary.
 
+Excellent review of the basis sets:
+
+http://vergil.chemistry.gatech.edu/courses/chem6485/pdf/basis-sets.pdf
+
+## Software & tools
+Online library of basis sets:
+
+https://www.basissetexchange.org
+
 ## Homeworks
 Homework 1. Szabo & Ostlund 2.2, 2.5 (due Tuesday Feb. 4).
 
