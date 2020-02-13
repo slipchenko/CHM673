@@ -47,3 +47,9 @@ In order to run jupyter notebooks with Psi4 environment on Scholar, copy and run
 
 ## Labs
 Lab1 is provided in two formats - the original format in a plain accented English (Lab1_original.docx) and the version converted into jupyter notebook (Lab1_basics.ipynb). We recommend you to try the latter one. 
+
+In case you want to run calculations without using PSI4 and jupyter, the recommended software is Q-Chem in combination with its GUI iQmol.
+Q-Chem: https://www.q-chem.com/
+
+iQmol: http://iqmol.org/
+
