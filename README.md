@@ -37,7 +37,10 @@ Project assignment #1 is also due Tuesday Feb. 18!
 
 ## Running calculations on Scholar
 An (overly detailed) overview of Scholar cluster is given in "Clusters101-Scholar.pdf". The last two sections (Globus and Workflows can be safely ignored.) However, there is a caveat: Scholar switched from PBS to SLURM job queuing system this semester, so everything related to PBS in that pdf are not relevant anymore. Here are links to how to run jobs with SLURM:       https://www.rcac.purdue.edu/knowledge/scholar/run
+
 Additionally,  here is a "PBS to Slurm" transition guide:
 https://www.rcac.purdue.edu/knowledge/scholar/run/rosetta
+
+You will probably need to learn how to run calculations on Scholar at some point in conducting your independent project. For the time being, you might continue staying ignorant. 
 
 In order to run jupyter notebooks with Psi4 environment on Scholar, copy and run "global-install-students.sh" script in Scholar (you need to do it once). After that, run Jupyter Hub from https://www.rcac.purdue.edu/compute/scholar/ and select "Python (My chm673 kernel)" (not 'Python: [conda env: chm673]'). 
