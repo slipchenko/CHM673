@@ -46,10 +46,13 @@ You will probably need to learn how to run calculations on Scholar at some point
 In order to run jupyter notebooks with Psi4 environment on Scholar, copy and run "global-install-students.sh" script in Scholar (you need to do it once). After that, run Jupyter Hub from https://www.rcac.purdue.edu/compute/scholar/ and select "Python (My chm673 kernel)" (not 'Python: [conda env: chm673]'). 
 
 ## Labs
-Lab1 is provided in two formats - the original format in a plain accented English (Lab1_original.docx) and the version converted into jupyter notebook (Lab1_basics.ipynb). We recommend you to try the latter one. 
+Lab1 is provided in two formats - the original format with instructions in a plain accented English (Lab1_original.docx) and the version converted into jupyter notebook (Lab1_basics.ipynb). We recommend you to try the latter one. 
 
 In case you want to run calculations without using PSI4 and jupyter, the recommended software is Q-Chem in combination with its GUI iQmol.
+
 Q-Chem: https://www.q-chem.com/
 
 iQmol: http://iqmol.org/
+
+iQmol should be installed to your favorite laptop/desktop. Then simple/fast calculations can be run without any additional setup on an external Q-Chem server (called "QChem") - but no worries - all job files will return to your local machine. Instructions on how to interface iQmol to Scholar will be provided later. 
 
