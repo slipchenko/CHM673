@@ -17,11 +17,11 @@ You should familiarize yourself with the use of the terminal for this class. Her
   ```
 5. Install conda modules (while chm673 environment is active):
   ```
-  conda install -y pandas && \ 
-  conda install -y nb_conda && \
-  conda install -y matplotlib && \
-  conda install -y -c plotly plotly && \
-  conda install -y -c conda-forge py3dmol && \
+  conda install -y pandas 
+  conda install -y nb_conda 
+  conda install -y matplotlib 
+  conda install -y -c plotly plotly 
+  conda install -y -c conda-forge py3dmol
   conda install -y -c conda-forge nglview 
   ```
   
