@@ -44,3 +44,6 @@ https://www.rcac.purdue.edu/knowledge/scholar/run/rosetta
 You will probably need to learn how to run calculations on Scholar at some point in conducting your independent project. For the time being, you might continue staying ignorant. 
 
 In order to run jupyter notebooks with Psi4 environment on Scholar, copy and run "global-install-students.sh" script in Scholar (you need to do it once). After that, run Jupyter Hub from https://www.rcac.purdue.edu/compute/scholar/ and select "Python (My chm673 kernel)" (not 'Python: [conda env: chm673]'). 
+
+## Labs
+Lab1 is provided in two formats - the original format in a plain accented English (Lab1_original.docx) and the version converted into jupyter notebook (Lab1_basics.ipynb). We recommend you to try the latter one. 
