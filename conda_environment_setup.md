@@ -1,5 +1,37 @@
-Computer Setup
---------------
+
+Scholar Conda Setup
+-------------------
+
+In order to have access to the conda environment created for the class. We need to run a few commands.
+
+Run the script:
+
+```
+. /depot/lslipche-class/apps/chm673/2020/global-install-students.sh 
+```
+
+In clase the script fails, You can manually do it by running:
+
+```
+module use /depot/lslipche-class/apps/chm673/2020/modulefiles  
+module load conda-env/chm673-py3.6.4  
+rcac-conda-env kernel \
+          -p /depot/lslipche-class/apps/chm673/2020/envs/chm673
+
+```
+
+The previous lines will generate a Jupyter kernel named "My chm637" that can be accessed from JupyterHub. In case you want to run the environment from the terminal, you would need to type the following *every time* you want to use the environment.
+
+```
+module use /depot/lslipche-class/apps/chm673/2020/modulefiles  
+module load conda-env/chm673-py3.6.4
+
+```
+
+
+
+Local Conda Setup
+-----------------
 
 You should familiarize yourself with the use of the terminal for this class. Here we will discuss some of the modules required to run the calculations in class. Please make sure you have everything up and running before the Lab 1. 
 
