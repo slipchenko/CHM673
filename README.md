@@ -35,6 +35,9 @@ Homework 3. "HF_code" notebook (due Tuesday Feb. 18). Please submit your noteboo
 
 Project assignment #1 is also due Tuesday Feb. 18!
 
+## Midterm
+Midterm assignment is out! See "midterm_2020.docx" file. Due date is March 10.
+
 ## Running calculations on Scholar
 An (overly detailed) overview of Scholar cluster is given in "Clusters101-Scholar.pdf". The last two sections (Globus and Workflows can be safely ignored.) However, there is a caveat: Scholar switched from PBS to SLURM job queuing system this semester, so everything related to PBS in that pdf are not relevant anymore. Here are links to how to run jobs with SLURM:       https://www.rcac.purdue.edu/knowledge/scholar/run
 
