@@ -28,7 +28,23 @@ module load conda-env/chm673-py3.6.4
 
 ```
 
+<br>
 
+Alternative to Jupyter Hub
+-----------------------
+If you are having problems visualizing orbitals, here is an alternative to access and run your Notebooks:
+
+1. Login to https://gateway.scholar.rcac.purdue.edu/
+2. In the top bar menu, under "Interactive Apps", select "Jupyter Notebook"
+3. Next page will let you select queue (scholar) and duration of the job.
+ Defaults are reasonable, so hit the blue "Launch" button.
+4. Wait until the job starts (the page will refresh and eventually show a
+ blue "Connect to Jupyter" button).
+5. Hit that button and you'll be connected to your own Jupyter instance
+ running onone of the compute nodes - so you just open your notebook
+ and fire away.
+
+<br>
 
 Local Conda Setup
 -----------------
