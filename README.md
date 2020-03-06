@@ -59,7 +59,7 @@ iQmol: http://iqmol.org/
 
 iQmol should be installed to your favorite laptop/desktop. Then simple/fast calculations can be run without any additional setup on an external Q-Chem server (called "QChem") - but no worries - all job files will return to your local machine. 
 
-# Instructions on how to interface iQmol to Scholar
+## Instructions on how to interface iQmol to Scholar
 Download "iqmol_Scholar.cfg" script to your local machine; in iQmol go to Calculations->Edit Servers, press large green "+" button. New server dialog will appear. Click "Load" button in the low left corner and select iqmol_Scholar.cfg file. In the server setting dialogue, change "yourcareerid" to your real career ID in User name and Working Directory. Click OK.
 
 Continue with preparing Q-Chem setup as usual. When submitting job, change "Server" (in the low right corner) to "Scholar"; click "Submit". You will be asked for your career password. In the screen called "Resource Limits" you can modify Wall time and number of CPUs (maximum of 20). Many job will run just fine (and with faster wait time in queue) on a single processor.
