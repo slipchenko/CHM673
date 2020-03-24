@@ -64,3 +64,7 @@ Download "iqmol_Scholar.cfg" script to your local machine; in iQmol go to Calcul
 
 Continue with preparing Q-Chem setup as usual. When submitting job, change "Server" (in the low right corner) to "Scholar"; click "Submit". You will be asked for your career password. In the screen called "Resource Limits" you can modify Wall time and number of CPUs (maximum of 20). Many job will run just fine (and with faster wait time in queue) on a single processor.
 
+## Webex lectures
+https://purdue.webex.com/meet/lslipche
+Lecrures will be recorded (both screen and audio) and uploaded on Blackboard. Pdf files of lecture notes will be also posted. 
+
