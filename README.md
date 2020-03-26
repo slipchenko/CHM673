@@ -67,7 +67,9 @@ Continue with preparing Q-Chem setup as usual. When submitting job, change "Serv
 ## Webex lectures
 https://purdue.webex.com/meet/lslipche
 
-Lecrures will be recorded (both screen and audio) and uploaded on Blackboard. 
+Lecrures are recorded (both screen and audio). Pdf files of lecture notes and audio recordings: 
 
-Pdf files of lecture notes and audio recordings for lecture on March 24 is in folder Lecture_DFT1. 
+March 24: Lecture_DFT1
+
+March 26: Lecture_DFT2
 
