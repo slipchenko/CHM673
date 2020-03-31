@@ -73,3 +73,5 @@ March 24: Lecture_DFT1
 
 March 26: Lecture_DFT2
 
+March 31: Lecture_DFT3
+
