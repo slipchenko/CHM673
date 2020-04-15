@@ -79,3 +79,7 @@ April 2: Lecture_DFT4
 
 April 7: ExcitedStates_1
 
+April 9: Excited States 2
+
+April 14: Excited States 3
+
