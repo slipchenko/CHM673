@@ -83,3 +83,9 @@ April 9: Excited States 2
 
 April 14: Excited States 3
 
+April 16: Lecture_Excited_states_4
+
+April 21: Lecture_QMC
+
+April 23: Lecture_Fragmentation_Methods
+
